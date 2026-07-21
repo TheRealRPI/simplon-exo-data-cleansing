@@ -15,7 +15,7 @@ Un ensemble d'exercices et de travaux pratiques centrés sur le **nettoyage et l
 Pour exécuter les notebooks et scripts de ce projet, installez les dépendances requises avec la commande suivante :
 
 ```bash
-pip install pyarrow seaborn pandas missingno scipy setuptools==79.0.0 ydata-profiling scikit-learn matplotlib numpy ipywidgets
+pip install pyarrow seaborn pandas missingno scipy setuptools==79.0.0 ydata-profiling scikit-learn matplotlib numpy ipywidgets visions networkx
 ```
 
 > ⚠️ **Note** : L'utilisation de `setuptools==79.0.0` est recommandée pour faire fonctionner ydata-profiling qui utilise encore des outils dépréciés depuis.
